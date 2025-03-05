@@ -1,1 +1,1 @@
-# codingGigants
+# sth about AI

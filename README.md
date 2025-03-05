@@ -1,1 +1,1 @@
-# sth about AI
+# Just my lesson
